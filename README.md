@@ -41,5 +41,5 @@ Please follow the industry standard.
 ## Tests
 Please run ``npm run test`` test your application.
 ## Questions
-This is my Github Profile https://github.com/Racheldeng1995. If you have any additional questions, please reach me at racheldeng1995@gmail.com.
+This is my Github Profile https://github.com/mertcetnn. If you have any additional questions, please reach me at mert.cetnn@gmail.com.
 
